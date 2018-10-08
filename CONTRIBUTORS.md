@@ -954,9 +954,13 @@ Place: Recife
 About: InfoSec professional
 Programming Language: bash script, Python and C
 
+Name: [Vishal Madheshia](https://github.com/vishalwaka)<br/>
+Place: Bangalore, India<br/>
+About: Working professional<br/>
+Programming Language: Swift, Objective-C, Java<br/>
 
 Name: [Leonardo Sena](https://github.com/leosena21)<br/>
 Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
-Email: leeosena21@gmail.com<br/>
+Email: leeosena21@gmail.com<br/> 
